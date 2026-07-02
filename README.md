@@ -8,6 +8,9 @@
 
 Αρχικό πρότζεκτ: https://github.com/CerebruxCode/shelldio
 
+<img width="1368" height="1273" alt="sheldio_tray" src="https://github.com/user-attachments/assets/54be25d3-3f4f-4a8b-a8b7-dc19e4df384d" />
+
+
 ### Οδηγίες εγκατάστασης
 
 Το Tray-FM είναι συμβατό με Linux.
