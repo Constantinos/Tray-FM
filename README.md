@@ -35,9 +35,9 @@
 *Προσθήκη δίπλα σε κάθε σταθμό:*
 
  Play
--Stop μέσα στο submenu κάθε σταθμού
--Add to Favorites
--Remove from Favorites
--Favorites
--Resume Last Station
+- Stop μέσα στο submenu κάθε σταθμού
+- Add to Favorites
+- Remove from Favorites
+- Favorites
+- Resume Last Station
 Στο τελος των σταθμων προσθηκη κουμπιου Exit που κλείνει και το mpv
