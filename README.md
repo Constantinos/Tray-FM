@@ -24,25 +24,20 @@
 
 Θα τα βρείτε όλα στους Διαχειριστές Λογισμικού της διανομής σας.
 
-### Στα to-do για τις αμέσως επόμενες εκδόσεις:
+---
 
-- Πλήρες GTK tray app
-- Metadata από το mpv socket (`media-title`)
-- Notifications
-- MPRIS
-- .desktop` + autostart
-- Binary μέσω PyInstaller
-- deb πακέτο
-- AppImage πακέτο
-- Υπομενού Favorites
-- Υπομενού All Stations
-- Αναζήτηση σταθμού
-- Εμφάνιση τρέχοντος σταθμού στο tooltip
-- Αποθήκευση τελευταίου σταθμού
-- Ανάγνωση metadata από το IPC socket του mpv στο tooltip του indicator
-- Desktop notifications όταν αλλάζει τραγούδι
-- MPRIS integration
-- Να φαίνεται στα media controls του Cinnamon
-- Play / Stop από multimedia keys
+## v0.15
+---
 
-Οι εκδόσεις  με τις ανωτέρω προσθήκες θα κυκλοφορούν διαδοχικά. 
+<img width="825" height="346" alt="trayffm015" src="https://github.com/user-attachments/assets/9f08e263-32dd-46ba-b2bc-cd71ac930580" />
+
+
+*Προσθήκη δίπλα σε κάθε σταθμό:*
+
+ Play
+-Stop μέσα στο submenu κάθε σταθμού
+-Add to Favorites
+-Remove from Favorites
+-Favorites
+-Resume Last Station
+Στο τελος των σταθμων προσθηκη κουμπιου Exit που κλείνει και το mpv
